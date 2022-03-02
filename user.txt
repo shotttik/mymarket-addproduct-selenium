@@ -1,0 +1,5 @@
+email:shotttik
+password:paroli123
+location:თბილისი
+name:shotttik
+phone:512456789
